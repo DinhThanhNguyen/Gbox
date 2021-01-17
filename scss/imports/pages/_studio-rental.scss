@@ -133,7 +133,7 @@
                                 width: 100%;
                                 height: 100%;
                                 @include midflex;
-                                @include text(20px, 'Bold', normal, $title-main-cl, upperCase);
+                                @include text(20px, 'Bold', normal,  #f4f4f4, upperCase);
                             }
                             &:hover{
                                 background-color: $main-bg-cl;
